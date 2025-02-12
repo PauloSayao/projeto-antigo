@@ -1,6 +1,6 @@
 console.log (parseInt(Math.random()*1000+1))
 let nota = parseInt(prompt ('Qual a nota do aluno?'))
-if (nota >= 7){
+if (nota >= 6){
     console.log ('Aprovado')
 }else{
     console.log ('Reprovado')
